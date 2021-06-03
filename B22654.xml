@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact account of his Majesties progress from his first landing in Ireland to his arrival at Hilsbrough near the Newry. Together with the Protestants address.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22654</idno><idno type="EEBO-CITATION">99827505</idno>
+  <idno type="VID">206861</idno>
+  <idno type="EEBO-PROQUEST">2264205640</idno>
+  
+            <idno type="STC">Wing E3562</idno>
+            <idno type="PROQUEST">99827505</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827505e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22654)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206861)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1847:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact account of his Majesties progress from his first landing in Ireland to his arrival at Hilsbrough near the Newry. Together with the Protestants address.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed for Langley Curtiss at the sign of Sir Edmondbury Godfrey's Head near Fleet-Bridge,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the National Library of Ireland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">William --  III, --  King of England, 1650-1702 --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:206861:1"/>
+            <head>AN EXACT ACCOUNT Of His Majesties Progress From his First Landing in IRELAND, To his Arrival at <hi>Hilsbrough</hi> near the <hi>Newry.</hi>
+            </head>
+            <head type="sub">Together with the Protestants Address.</head>
+            <div type="entry">
+               <head>Lisburne, June 12. 1690.</head>
+               <p>WE expect the King with Impatience, the Castle of <hi>Belfast,</hi> and the Castle of <hi>Hils<g ref="char:EOLhyphen"/>brough,</hi> are prepared in the best manner to receive his Majesty; the streets of <hi>Belfast</hi> are daily swept, and not a Horse permitted to go into any Stable there, but all kept clean for the King and his Retinue.</p>
+               <p>One Captain <hi>Smith,</hi> formerly of <hi>Dundalke,</hi> hath, by order of the General, been with a party of Horse from the <hi>Newry,</hi> to review the Roads thence to <hi>Dun<g ref="char:EOLhyphen"/>dalke,</hi> and says all the Bridges and Causways are broke to prevent our march; all the Roads betwixt this place and the <hi>Newry</hi> are mending, and vast quanti<g ref="char:EOLhyphen"/>ties of Provisions are daily sent towards <hi>Ardmagh.</hi>
+               </p>
+            </div>
+            <div type="entry">
+               <head>Belfast, June 16.</head>
+               <p>The General expecting the King's Landing, came hither on <hi>Friday</hi> in the Afternoon, and sent out Men to all the adjacent Coasts to watch; and at 9 that Night the Post-Boy of <hi>Donnoghodee</hi> coming with the Pacquet, brought advice the King had passed by that place towards this.</p>
+               <p>On <hi>Saturday,</hi> about Three in the Afternoon, the General received advice his Majesty was come into the <hi>Lough;</hi> and thereupon, in his Coach and Sett of small black <hi>Barbary</hi> Horses, posted away to meet the King at <hi>Carrigfergus,</hi> and immediately mounted and rode on Horseback through the main street of the Town, where the almost numberless crowds of People bid his Majesty welcom with continued Shouts and Acclamations, at the <hi>White House,</hi> three miles hence, half way betwixt this and <hi>Carrigfergus.</hi> The General met the King at Four of the Clock, who was pleased for to a light, and go into his Coach, attended only with one Troop of Horse, and a few Gentlemen, and immediately drove over the <hi>Strand</hi> hither.</p>
+               <p>The uncertainty of the time and place of his Ma<g ref="char:EOLhyphen"/>jesties Landing, and the suddenness of the News was such, that few of the multitude that flocked hither to see it had their ends, the General's motion was so quick; yet before they got into the Town there were abundance who met them▪ and coming to the <hi>North Gate,</hi> He was received by the Sovereign and Bur<g ref="char:EOLhyphen"/>gesses of this place in their Formalities, a Guard of the Foot Guards, and a general continued Shout and Shouts of, <hi>God save the King, God bless our Protestant King, God bless King</hi> William.</p>
+               <p>Being come to the Castle, his Majesty alighted, and with the General walked into and round a very fine Garden at the back side thereof.</p>
+               <p>Then his Majesty went into an Apartment appoint<g ref="char:EOLhyphen"/>ed for him, and immediately issued out Orders for bringing ashore 200000 <hi>l.</hi> which came with him into the <hi>Lough,</hi> and 15 Tuns of Half-pence and Farthings in Tin, and that an Account be forthwith sent to the Agents of all Regiments to bring in their Accounts within 3 Days, in order to receive their Mens Pay, <hi>&amp;c.</hi> In order to which, his Majesty presently fell upon Measures how to clear all Quarters, and dis<g ref="char:EOLhyphen"/>charge the Country, and Ordered the Train to be ready to March in a Week. As the King was coming over the <hi>Strand</hi> another Coach of the Generals met him, which his Grace called to out of the former, and Ordered streight forward to the <hi>White-House,</hi> to re<g ref="char:EOLhyphen"/>ceive into it such persons of Quality as they should find first Landing. Not far from the said <hi>North-gate</hi> his Majesty was met by Dr. <hi>George Walker,</hi> late Go<g ref="char:EOLhyphen"/>vernor of <hi>London-Derry,</hi> and about Twelve of the Episcopal Clergy, who followed the Coach to the Castle, and when his Majesty alighted Addressed him in a Congratulatory Speech on his Arrival.</p>
+               <p>At Night the Streets were filled with Bonfires, and Fire-Works, which were no sooner lighted, but the Alarm Signal was given by discharge of Guns, so planted, that from one place unto another, thro' out the whole Country in our hands, in a few Mi<g ref="char:EOLhyphen"/>nutes, all places had notice of the King's Arrival, and in 3 Hours made Bonsires so thick, that the whole Country seemed in a Flame,</p>
+               <p>So that the Enemy could not but see and conjecture the Cause to their Eternal Grief.</p>
+               <p>At <hi>Lisburne,</hi> one <hi>George Gregson,</hi> the most eminent Preaching Quaker in the Province of <hi>Ʋlster,</hi> not making a Bonfire, the Soldiers broke all his Win<g ref="char:EOLhyphen"/>dows, pull'd down the Pales round his House, forc'd his Wheel-barrows, Shovels, Pick-Ax's, Tubs, Pitch and Tar-Barrels, out of his backside and Piled them up before his own Door in a state<g ref="char:EOLhyphen"/>ly Bonfire, and had not his House been Lieutenant General <hi>Douglass</hi> his Quarters, it had been impossi<g ref="char:EOLhyphen"/>ble to save it from pulling down, though a Guard was upon it, so Angry were the People.</p>
+               <p>Lieutenant General <hi>Douglass</hi> is expected here this Day; and this Morning are a great number of Pres<g ref="char:EOLhyphen"/>byterian Ministers come in to wait on his Majesty with an Address. And one Captain <hi>William Cor<g ref="char:EOLhyphen"/>mock,</hi> (Brother in Law to Mr. <hi>Ezekiel Webb,</hi> the Reverend Minister of <hi>Inniskilling,)</hi> who was the first that took up Arms and Proclaimed their Majesties at <hi>Inniskilling,</hi> and under God the chief Instrument of saving that place, is come hither likewise with a Pe<g ref="char:EOLhyphen"/>tition, (and very Ample Certificates in his favour,) to the King, setting forth, That notwithstanding his past good Services, and extraordinary Sufferings, by raising and long maintaining there 2 Companies at his own Charge, heading the first until his only Son was cut off, and himself taken Prisoner by the Enemy, he was broke and bereaved of his Command, for (as he knows,) no other Cause, than timely forewarning some General Officers, that Major Ge<g ref="char:EOLhyphen"/>neral <hi>Maccarty</hi> intended to escape (as he afterwards did from <hi>Inniskilling,)</hi> and prayed his Majesty to be restored to the Company he raised, or to have the benefit of a Tryal at a General Court Martial, to convince the World he hath not been guilty of <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb facs="tcp:206861:2"/> Crime, but is ruined only for his Innocency and Ju<g ref="char:EOLhyphen"/>stice, and Espousing his Majesties Interest.</p>
+               <p>As there was but few Men met his Majesty just at his Landing, so there was but one Woman, <hi>viz.</hi> Capt. <hi>Weston</hi>'s Widow, who last year raised a Company of Foot in <hi>London,</hi> and with the same lost her Husband at <hi>Dundalke</hi> last Winter.</p>
+               <p>The <hi>Lough</hi> betwixt this and <hi>Carrigfergus,</hi> two Leagues long, seems like a Wood, there being in it no less than 6 or 700 Sail of Ships most loaden with Provision and Ammunition, so that now we fear no more <hi>Dundalke</hi> wants; the plenty and order of all things here, is most wonderful, and not credible to any but those that see it, I cannot think the <hi>German</hi> War ever had the like, and yet all Goods hold a good Rate, Beer 13 or 14 l. the Tun, Claret and Whitewine 15 l. the Hogshead, Canary and Sher<g ref="char:EOLhyphen"/>ries 10 s. a Gallon, Malaga, and right good Brandy 8 s. a Gallon, Wheat 25 s. the Bristol Barrel, Mault 17 s. a Barrel, Flower 15 s. the Stone, Cheese 35 s. the Hundred, Salt 12 d. the Gallon, and so propor<g ref="char:EOLhyphen"/>tionable for all other Goods for Back and Belly.</p>
+               <p>The Inhabitants are preparing (at <hi>Lisburne)</hi> an Address to present the King.</p>
+            </div>
+            <div type="entry">
+               <head>Lisburne, June 19.</head>
+               <p>His Majesty hath continued at <hi>Belfast</hi> until this day at Noon, when he came thence hither, and dines with the General, and this Night goes for <hi>H<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ls<g ref="char:EOLhyphen"/>brough,</hi> where he resolves to continue until he goes to the Camp, which is now forming near <hi>Tanderagee,</hi> about 20 Miles South from hence, on the very Fron<g ref="char:EOLhyphen"/>tiers between <hi>Ardmagh</hi> and the <hi>Newry,</hi> and all the Army have Orders forthwith to repair thither. Some part of the Train at <hi>Belfast</hi> is shipt to go about by Sea, as 'tis thought, to meet the rest at <hi>Dundalke;</hi> the other part of it hath Orders, as this day, and to morrow, to march this way towards the Camp, and that part that's at <hi>Hilsbrough,</hi> is also to march forth<g ref="char:EOLhyphen"/>with.</p>
+               <p>The Regiments of the Earl of <hi>Meath,</hi> and Lieu<g ref="char:EOLhyphen"/>tenant Colonel <hi>Douglass,</hi> are this Night to march hence to the Camp. Lieutenant General <hi>Dou<g ref="char:EOLhyphen"/>glass</hi> is here, as also Prince <hi>George,</hi> Earl of <hi>Oxford,</hi> and abundance of other Nobility and Gentry.</p>
+               <p>This Day are Landed at the <hi>White-House</hi> 2500 Horse from <hi>Scotland,</hi> and this Day Marched through this place for the Camp Three White <hi>Dutch</hi> Regi<g ref="char:EOLhyphen"/>ments of Horse; all our Army are in a wonderful good order, and furnished with new Tents, and new Arms, as well as new Cloaths. The great number of Coaches, Waggons, Baggage-Horses, and the like, is almost Incredible, to be supplyed from <hi>England,</hi> or any one the biggest Nation in <hi>Europe,</hi> I cannot think any Army in Christendom hath the like. None but they that see it can belive it, or that it could be possible for all the Men besides, (if joined in one Body▪) should stand before them.</p>
+               <p>Last Week a Sculking Party of the <hi>Irish</hi> of about 20, betwixt <hi>Monaghan</hi> and <hi>Clownish,</hi> surprized Six of our Men Travelling with Swords only, whom they a while kept Prisoners, but at last offered them Li<g ref="char:EOLhyphen"/>berty for Monie; whereupon our Men desir'd leave to Advise together about procuring their Demands; which while they were doing, the <hi>Irish</hi> laid down and quitted their Arms at a small distance to smoak To<g ref="char:EOLhyphen"/>bacco, and take Sneezing, which our Men perceiving, got to their Arms, killed two on the spot, wounded and took several of them Prisoners, and returned to their Quarters.</p>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>JUST now is Advice, that the late King is at the Castle of</hi> Mograh, <hi>within Five Miles of the</hi> N<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ry, <hi>and with him</hi> 15000 <hi>Men.</hi>
+            </p>
+            <p>
+               <hi>The following Address was humbly pre<g ref="char:EOLhyphen"/>sented to his Majesty upon his Arrival.</hi>
+            </p>
+            <lg>
+               <lg>
+                  <l>Greatest of Kings, Conquer what is your own,</l>
+                  <l>And add poor <hi>Ireland</hi> to sweet <hi>England's</hi> Crown,</l>
+                  <l>Pull the stiff Neck of every <hi>Papist</hi> down,</l>
+               </lg>
+               <l>Set Captives free, who on the Willow Trees</l>
+               <l>Hang useless Harps that tun'd such Songs as these.</l>
+               <lg>
+                  <l>
+                     <hi>Ah! Mighty Prince,</hi> How do our Sorrows swell,</l>
+                  <l>What Tongues, or Pens, can our great Miseries tell,</l>
+                  <l>Who in the midst of Satan's Subjects dwell?</l>
+               </lg>
+               <l>Disarm'd, and Plunderd, Captiv'd here we lie,</l>
+               <l>Gladly we would, alas, but cannot fly.</l>
+               <lg>
+                  <l>
+                     <hi>Irish</hi> and <hi>French</hi> Insult, Tryumph, and Kill,</l>
+                  <l>And who dare say the Ruffians have done ill,</l>
+                  <l>Since all their Law is Couched in their Will?</l>
+               </lg>
+               <l>The Papist Locusts do the Church devour,</l>
+               <l>Ravish our Wives, and our Young Maids deflower.</l>
+               <l>Arise, <hi>Great Sir,</hi> and like a Rampant Lion,</l>
+               <l>Revenge the Assronts of poor distressed <hi>Sion.</hi>
+               </l>
+               <l>Blest be the Angel, brings the best of Kings</l>
+               <l>With Expedition on the Cherub's Wings.</l>
+               <l>Blest be the Wind and Tide that Wafts you o're</l>
+               <l>To your sad Subjects on the <hi>Irish</hi> Shoar:</l>
+               <l>And ever Bless'd be they that Fight your Cause,</l>
+               <l>And with their Swords maintain <hi>Great Britain</hi>'s Laws.</l>
+            </lg>
+            <closer>Thus Wish your Majesties Obedient SUBJECTS.</closer>
+         </div>
+         <div type="adverts">
+            <head>Advertisements.</head>
+            <p>These are to give Notice, That if any person hath <note place="margin">☞</note> occasion to sell any Library, or parcel of Books, either in large or small Quantities, they may receive ready Money for them, upon View thereof, by <hi>Langley Cur<g ref="char:EOLhyphen"/>tiss</hi> at Sir <hi>Edmondbury Godfrey</hi>'s <hi>Head</hi> near <hi>Fleet-bridge.</hi>
+            </p>
+            <p>These are to give Notice to all Persons, for the <note place="margin">☞</note> Benefit of the Publick, That Mr. <hi>Elmy,</hi> Professor of Physick, and Operator, of known Integrity, and above 25. Years practice, Liveth at the <hi>Blue Ball</hi> in <hi>Whale-Bone Court,</hi> at the Lower End of <hi>Bartholomew-lane</hi> by the <hi>Royal Exchange,</hi> who most safely and expe<g ref="char:EOLhyphen"/>ditiously Cures <hi>Deafness</hi> and <hi>Noise in the Ears</hi> in any of what Age soever, (if Curable) and at first Sight, by Inspection, Resolves the Patient if so or not, as most Eminent Persons of Quality in this City can Testifie. He hath likewise a most excellent Gargarism or Mouth-Water, which will make black or yellow Teeth as white as Ivory, in a few times using; and it will certainly cure the Scurvy, and all other Diseases incident to the Mouth, Teeth and Gums, which in many persons causeth a stink<g ref="char:EOLhyphen"/>ing Breath, which (by the Blessing of God, and the use of this Water) I dare affirm you will be freed from those Maladies beforementioned, with Directions. His Pills only prepared for the <hi>French</hi> Disease, and the <hi>Running of the Reins,</hi> may be had in Boxes of several prices, with other <hi>Venereal Arcana's,</hi> as occasion serves.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> Langley Curtiss <hi>at the Sign of Sir</hi> Edmondbury Godfrey<hi>'s</hi> Head <hi>near</hi> Fleet-Bridge. 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
